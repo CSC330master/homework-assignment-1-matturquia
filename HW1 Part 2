@@ -1,0 +1,23 @@
+2. Linux Commands:
+- pwd (Checks what current directory you are in)
+- mkdir (Makes a new directory)
+- cd (Changes the current directory to another directory)
+- cd .. (Takes you of the current directory that you were exploring)
+3. Git Commands:
+- git config (Allows you to configure Git by letting it know who you are based off you and your account)
+- git clone (Clones the GitHub repository)
+- git status (Checks the status of the local repository)
+- git add (Adds a file or a group of files to the list of files to be updates in the next commit.
+- git commit (commits the changes (only in the files selected by git add)
+- git push (Pushes any changes made in the local repository to another repository.
+4i. 
+- Make sure to consult any available resources and write your own answer.
+- You can discuss your ideas with your classmates for homework, as long as they are in your group.
+4ii.
+- You can use concepts that are not covered in class, but you must be able to explain your solution and show understanding.
+- Make sure to include sources and students you collaborated with on HW.
+4iii.
+- Submitting late assignments will cost 15% of the grade per day. Exceptions will be granted on individual basis and only for extreme circumstances.
+4iv.
+- If you miss class more than 2 times, it will cost 15% off your participation grade per instance. The remaining 25% will be based on how much you participate through your exit ticket and asking questions.
+
